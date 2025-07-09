@@ -6,8 +6,15 @@
 Halo, Saya <span class="text-blue-600">Hanjaya Hartono</span>
 </h1>
 <p class="text-xl text-gray-600 mb-8 animate-slide-in-left" style="animation-delay: 400ms;">
-Mahasiswa Teknik Informatika yang bersemangat dalam pengembangan web dan desain
-antarmuka.
+Saya adalah mahasiswa Program Studi Informatika
+yang memiliki semangat tinggi dalam belajar dan berkembang di dunia teknologi.
+Saat ini saya aktif mendalami pengembangan website dan aplikasi,
+khususnya di bidang front-end dan back-end development menggunakan framework seperti Vue.js, Laravel, dan CodeIgniter.
+Saya juga memiliki pengalaman dalam membangun beberapa proyek web,
+mulai dari sistem rental kendaraan, halaman admin dashboard,
+hingga integrasi API dengan database MySQL.
+Selain itu, saya sedang mengembangkan minat dalam machine learning,
+khususnya sistem rekomendasi menggunakan Artificial Neural Network (ANN).
 </p>
 
 <a href="#kontak" class="bg-blue-600 text-white font-bold py-3 px-6 rounded-lg hover:bg-blue-
