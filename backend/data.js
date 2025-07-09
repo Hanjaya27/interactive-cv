@@ -18,7 +18,12 @@ const educationHistory = [
 const skills = [
   { name: 'HTML', level: 'Mahir' },
   { name: 'CSS', level: 'Mahir' },
-  { name: 'JavaScript', level: 'Intermediate' }
+  { name: 'JavaScript', level: 'Intermediate' },
+  { name: 'PHP', level: 'Intermediate' }, 
+  { name: 'Vue.js', level: 'Intermediate' },
+  { name: 'Laravel', level: 'Intermediate' },
+  { name: 'CodeIgniter', level: 'Intermediate' },
+  { name: 'MySQL', level: 'Intermediate' }
 ];
 
 const projects = [
@@ -29,6 +34,8 @@ const projects = [
     image: 'http://localhost:5173/images/WebSewaKendaraan.jpg',
     tech: ['Vue.js', 'Ci3', 'MySQL']
   }
+
+
 ];
 
 module.exports = { educationHistory, skills, projects };
