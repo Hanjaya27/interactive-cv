@@ -35,7 +35,6 @@ const projects = [
     tech: ['Vue.js', 'Ci3', 'MySQL']
   }
 
-
 ];
 
 module.exports = { educationHistory, skills, projects };
